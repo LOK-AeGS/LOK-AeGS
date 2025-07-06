@@ -6,7 +6,7 @@
 
   ![image](https://img.shields.io/badge/Security-Android_Security-red)
 
-  ![image](https://img.shields.io/badge/develope-Springboot-pupple)
-  ![image](https://img.shields.io/badge/develope-MariaDB-green)
+  ![image](https://img.shields.io/badge/develope-Springboot-purple)
+  ![image](https://img.shields.io/badge/develope-MariaDB-blue)
   ![image](https://img.shields.io/badge/develope-AWS-orange)
 </div>
