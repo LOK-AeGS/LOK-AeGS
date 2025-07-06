@@ -5,9 +5,9 @@
 ## 🧑‍💻 About Me
 
 **🐻 Dankook University**  
-Department of Software Engineering
+Department of Software Engineering (2021.03.01~)
 
-**🔬 CSOS Lab** — *Undergraduate Researcher*
+**🔬 CSOS Lab** — *Undergraduate Researcher* (2024.07.10~)
 
 ---
 
