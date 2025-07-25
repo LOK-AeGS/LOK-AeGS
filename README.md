@@ -15,6 +15,7 @@ Department of Software Engineering (2021.03.01~)
 
 - 📄 **Paper**  
   Digital Forensic Analysis of Navigation Apps on Android Devices connected via Android Auto
+  안드로이드에서 eBPF를 이용한 타임스탬프 변경 이벤트 탐지
 
 - 📌 **Patent**  
   *"A Device and Method for Restoring Masked Coordinate Data for Vehicle Route Reconstruction"*  
