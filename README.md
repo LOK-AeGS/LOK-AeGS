@@ -18,6 +18,10 @@ Department of Software Engineering (2021.03.01~)
   
   안드로이드에서 eBPF를 이용한 타임스탬프 변경 이벤트 탐지
 
+** *ACK2025 KISA 원장상* **
+  안드로이드폰에서 타임스탬프 변경이벤트의 실시간 탐지
+
+
 - 📌 **Patent**  
   *"A Device and Method for Restoring Masked Coordinate Data for Vehicle Route Reconstruction"*  
   (차량의 주행 경로 재구성을 위한 마스킹된 좌표 정보 복원 장치 및 방법)
