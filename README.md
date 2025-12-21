@@ -19,7 +19,8 @@ Department of Software Engineering (2021.03.01~)
   안드로이드에서 eBPF를 이용한 타임스탬프 변경 이벤트 탐지
 
 ** *ACK2025 KISA 원장상* **
-  안드로이드폰에서 타임스탬프 변경이벤트의 실시간 탐지
+
+  Ahn, G. S., Kim, S. J., & Cho, S. J. (2025). Real-time Detection of Timestamp Modification Events in Android Phones. In Annual Conference of KIPS (pp. 188-189). Korea Information Processing Society.
 
 
 - 📌 **Patent**  
