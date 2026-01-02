@@ -1,38 +1,97 @@
 <div align="center">
-    
-  ![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Venom.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 
-# 🧑‍💻 About Me
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Welcome%20to%20My%20Profile&fontSize=50&animation=fadeIn&fontAlignY=38)
 
-**🐻 Dankook University**  
-Department of Software Engineering (2021.03.01~)
+</div>
 
-**🔬 CSOS Lab** — *Undergraduate Researcher* (2024.07.10~)
+## 👋 About Me
+
+<table>
+<tr>
+<td>
+
+**🎓 Education**
+- 🐻 **Dankook University**
+- Department of Software Engineering
+- 2021.03 ~ Present
+
+</td>
+<td>
+
+**🔬 Research**
+- **CSOS Lab**
+- Undergraduate Researcher
+- 2024.07 ~ Present
+
+</td>
+</tr>
+</table>
+
+**💡 Interests**
+- 🔐 Android Security
+- 🔍 Digital Forensics  
+- 💻 Backend Development
 
 ---
 
-# 🧾 Research Topics
+## 🏆 Achievements
 
-- 📄 **Paper**  
-  Digital Forensic Analysis of Navigation Apps on Android Devices connected via Android Auto
-  
-  안드로이드에서 eBPF를 이용한 타임스탬프 변경 이벤트 탐지
+### 📄 Research Publications
 
-** *ACK2025 KISA 원장상* **
+<table>
+<tr>
+<td width="50%">
 
-  Ahn, G. S., Kim, S. J., & Cho, S. J. (2025). Real-time Detection of Timestamp Modification Events in Android Phones. In Annual Conference of KIPS (pp. 188-189). Korea Information Processing Society.
+**Android Forensics**
+> Digital Forensic Analysis of Navigation Apps on Android Devices connected via Android Auto
 
+</td>
+<td width="50%">
 
-- 📌 **Patent**  
-  *"A Device and Method for Restoring Masked Coordinate Data for Vehicle Route Reconstruction"*  
-  (차량의 주행 경로 재구성을 위한 마스킹된 좌표 정보 복원 장치 및 방법)
+**eBPF-based Detection** 🏅
+> Ahn, G. S., Kim, S. J., & Cho, S. J. (2025). *Real-time Detection of Timestamp Modification Events in Android Phones*. Annual Conference of KIPS, 188-189.
+> 
+> **ACK2025 한국인터넷진흥원(KISA)원장상 수상**
 
+</td>
+</tr>
+</table>
 
-  # 📚 Tech Stack 📚
+### 🎯 Patent
 
-  ![image](https://img.shields.io/badge/Security-Android_Security-red)
+**발명 특허 출원**
+> *"차량의 주행 경로 재구성을 위한 마스킹된 좌표 정보 복원 장치 및 방법"*
+> 
+> A Device and Method for Restoring Masked Coordinate Data for Vehicle Route Reconstruction
 
-  ![image](https://img.shields.io/badge/develope-Springboot-purple)
-  ![image](https://img.shields.io/badge/develope-MariaDB-blue)
-  ![image](https://img.shields.io/badge/develope-AWS-orange)
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Security & Research
+![Android Security](https://img.shields.io/badge/Android_Security-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-FF6B6B?style=for-the-badge&logo=security&logoColor=white)
+![eBPF](https://img.shields.io/badge/eBPF-00ADD8?style=for-the-badge&logo=linux&logoColor=white)
+
+### Development
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer)
+
 </div>
