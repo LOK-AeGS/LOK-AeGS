@@ -21,7 +21,7 @@
 **🔬 Research**
 - **CSOS Lab**
 - Undergraduate Researcher
-- 2024.07 ~ Present
+- 2024.07 ~ 2026.02
 
 </td>
 </tr>
