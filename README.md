@@ -11,16 +11,16 @@
 <td>
 
 **🎓 Education**
-- 🐻 **Dankook University**
-- Department of Software Engineering
-- 2021.03 ~ Present
+- 🐻 **단국대학교 (Dankook University)**
+- 소프트웨어학과 학사 과정
+- 2021.03 ~ 현재
 
 </td>
 <td>
 
 **🔬 Research**
 - **CSOS Lab**
-- Undergraduate Researcher
+- 학부 연구생 (Undergraduate Researcher)
 - 2024.07 ~ 2026.02
 
 </td>
@@ -31,6 +31,16 @@
 - 🔐 Android Security
 - 🔍 Digital Forensics  
 - 💻 Backend Development
+
+---
+
+## 🚀 Research Projects & Activities
+
+### 🧪 참여 과제 (Research Projects)
+- **자동차 내·외부 아티팩트 수집 및 통합 분석 기술 개발**
+  - 이벤트 기반 실험 시스템 구축을 통한 데이터 분석 수행
+- **모바일 플랫폼 기반 차량 포렌식을 위한 효과적/지능적 프레임워크 연구**
+- **SW 중심대학 사업단 지원 사업 참여**
 
 ---
 
@@ -50,7 +60,7 @@
 
 **eBPF-based Detection** 🏅
 > Ahn, G. S., Kim, S. J., & Cho, S. J. (2025). *Real-time Detection of Timestamp Modification Events in Android Phones*. Annual Conference of KIPS, 188-189.
-> 
+>  
 > **ACK2025 한국인터넷진흥원(KISA)원장상 수상**
 
 </td>
@@ -61,8 +71,6 @@
 
 **발명 특허 출원**
 > *"차량의 주행 경로 재구성을 위한 마스킹된 좌표 정보 복원 장치 및 방법"*
-> 
-> A Device and Method for Restoring Masked Coordinate Data for Vehicle Route Reconstruction
 
 ---
 
