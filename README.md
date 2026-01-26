@@ -86,9 +86,9 @@
 
 <div align="center">
 
-### 📊 GitHub Stats
+### 📊 Algorithm
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=staran1227)](https://solved.ac/staran1227/)
 
 ---
 
