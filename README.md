@@ -53,7 +53,7 @@
 <td width="50%">
 
 **Android & Automotive Forensics**
-> Digital Forensic Analysis of Navigation Apps on Android Devices connected via Android Auto
+> Ahn, G. S., Jung, J., Cho, S. J., Hwang, Y., & Piao, X. (2025, February). Digital Forensic Analysis of Navigation Apps on an Android Phone Connected to a Car via Android Auto. In 2025 International Conference on Green and Human Information Technology (ICGHIT).
 
 > Jung, J., Cho, S. J., & **Ahn, G. S.** (2025, July). Collecting and Analyzing Automotive Crash Data Using in-Vehicle Network Traffic and Infotainment System Logs. In 2025 ICUFN (pp. 765-770). IEEE.
 
