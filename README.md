@@ -60,7 +60,7 @@
 </td>
 <td width="50%">
 
-**eBPF-based Detection** 🏅
+**eBPF(extended Berkeley Packet Filter)-based Detection** 🏅
 > **Ahn, G. S.**, Kim, S. J., & Cho, S. J. (2025). *Real-time Detection of Timestamp Modification Events in Android Phones*. Annual Conference of KIPS, 188-189.
 >  
 > **ACK2025 한국인터넷진흥원(KISA)원장상 수상**
