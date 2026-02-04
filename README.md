@@ -52,14 +52,16 @@
 <tr>
 <td width="50%">
 
-**Android Forensics**
+**Android & Automotive Forensics**
 > Digital Forensic Analysis of Navigation Apps on Android Devices connected via Android Auto
+
+> Jung, J., Cho, S. J., & **Ahn, G. S.** (2025, July). Collecting and Analyzing Automotive Crash Data Using in-Vehicle Network Traffic and Infotainment System Logs. In 2025 ICUFN (pp. 765-770). IEEE.
 
 </td>
 <td width="50%">
 
 **eBPF-based Detection** 🏅
-> Ahn, G. S., Kim, S. J., & Cho, S. J. (2025). *Real-time Detection of Timestamp Modification Events in Android Phones*. Annual Conference of KIPS, 188-189.
+> **Ahn, G. S.**, Kim, S. J., & Cho, S. J. (2025). *Real-time Detection of Timestamp Modification Events in Android Phones*. Annual Conference of KIPS, 188-189.
 >  
 > **ACK2025 한국인터넷진흥원(KISA)원장상 수상**
 
