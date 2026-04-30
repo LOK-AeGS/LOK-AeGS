@@ -65,7 +65,6 @@
 >  
 > **ACK2025 한국인터넷진흥원(KISA)원장상 수상**
 >
-> **KCI Paper**
 > **Gyun-Seong Ahn**, Seokhyun Ahn and SEONG JE CHO. (2026). Kernel-Level Real-Time Detection of Timestamp Manipulation on Android for Anti-Forensics Resistance. The Transactions of the Korea Information Processing Society, 15(4), 298-305.
 
 </td>
