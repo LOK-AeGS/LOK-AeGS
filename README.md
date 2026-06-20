@@ -21,7 +21,7 @@
 **🔬 Research**
 - **CSOS Lab**
 - 학부 연구생 (Undergraduate Researcher)
-- 2024.07 ~ help me
+- 2024.07 ~ 2026.07
 
 </td>
 </tr>
@@ -42,6 +42,7 @@
 - **모바일 플랫폼 기반 차량 포렌식을 위한 효과적/지능적 프레임워크 연구** - NRF
 - **SW 중심대학 사업단 지원 사업 참여 및 서포터즈 활동** - IITP
 - **V2D 기반 고보안 모바일 정보 조사 및 분석 기술 연구** - NSR
+
 ---
 
 ## 🏆 Achievements
@@ -53,6 +54,7 @@
 <td width="50%">
 
 **Android & Automotive Forensics**
+
 > **Ahn, G. S.**, Jung, J., Cho, S. J., Hwang, Y., & Piao, X. (2025, February). Digital Forensic Analysis of Navigation Apps on an Android Phone Connected to a Car via Android Auto. In 2025 International Conference on Green and Human Information Technology (ICGHIT).
 
 > Jung, J., Cho, S. J., & **Ahn, G. S.** (2025, July). Collecting and Analyzing Automotive Crash Data Using in-Vehicle Network Traffic and Infotainment System Logs. In 2025 ICUFN (pp. 765-770). IEEE.
@@ -61,6 +63,7 @@
 <td width="50%">
 
 **eBPF(extended Berkeley Packet Filter)-based Detection** 🏅
+
 > **Ahn, G. S.**, Kim, S. J., & Cho, S. J. (2025). *Real-time Detection of Timestamp Modification Events in Android Phones*. Annual Conference of KIPS, 188-189.
 >  
 > **ACK2025 한국인터넷진흥원(KISA)원장상 수상**
@@ -75,6 +78,12 @@
 
 **발명 특허 출원**
 > *"차량의 주행 경로 재구성을 위한 마스킹된 좌표 정보 복원 장치 및 방법"*
+
+### 🎓 Programs & Activities
+
+> **SKALA (SK AI/Learning Academy) 4기** — 합격 ✅
+>
+> **BoB (Best of the Best) 15기** — 서류 합격 📝
 
 ---
 
