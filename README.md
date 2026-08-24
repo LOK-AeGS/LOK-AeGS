@@ -29,7 +29,7 @@
 
 **💡 Interests**
 - 🔐 Android Security
-- 🔍 Digital Forensics  
+- 🔍 Digital Forensics
 - 💻 Backend Development
 
 ---
@@ -37,6 +37,7 @@
 ## 🚀 Research Projects & Activities
 
 ### 🧪 참여 과제 (Research Projects)
+
 - **자동차 내·외부 아티팩트 수집 및 통합 분석 기술 개발** - IITP
   - 이벤트 기반 실험 시스템 구축을 통한 데이터 분석 수행
 - **모바일 플랫폼 기반 차량 포렌식을 위한 효과적/지능적 프레임워크 연구** - NRF
@@ -46,6 +47,10 @@
 ---
 
 ## 🏆 Achievements
+
+### 🛡️ Vulnerability Disclosure
+
+> **KVE-2026-0584** — 취약점 발견 및 등록
 
 ### 📄 Research Publications
 
@@ -65,7 +70,7 @@
 **eBPF(extended Berkeley Packet Filter)-based Detection** 🏅
 
 > **Ahn, G. S.**, Kim, S. J., & Cho, S. J. (2025). *Real-time Detection of Timestamp Modification Events in Android Phones*. Annual Conference of KIPS, 188-189.
->  
+>
 > **ACK2025 한국인터넷진흥원(KISA)원장상 수상**
 >
 > **Gyun-Seong Ahn**, Seokhyun Ahn and SEONG JE CHO. (2026). Kernel-Level Real-Time Detection of Timestamp Manipulation on Android for Anti-Forensics Resistance. The Transactions of the Korea Information Processing Society, 15(4), 298-305.
@@ -78,6 +83,18 @@
 
 **발명 특허 출원**
 > *"차량의 주행 경로 재구성을 위한 마스킹된 좌표 정보 복원 장치 및 방법"*
+
+### 🥇 Awards
+
+> **Conquer Health: 의과학 특화 파운데이션 모델 해커톤** (주최: Lunit) — **Benchmark 부문 1등상** 🏆
+>
+> **ACK2025 한국인터넷진흥원(KISA) 원장상** 🏅
+
+### 📜 Certifications
+
+> **정보처리기사** (Engineer Information Processing)
+>
+> **SQLD** (SQL Developer)
 
 ### 🎓 Programs & Activities
 
@@ -100,6 +117,10 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Data & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
